@@ -1,2 +1,5 @@
 *.ipr
 *.iml
+/LaunchMyApp-PhoneGap-Plugin/nbproject/private/
+/nbproject/private/
+/nbproject/
